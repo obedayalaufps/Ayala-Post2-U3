@@ -2,7 +2,7 @@
 **Unidad 3: Manejo del DEBUG - Post-Contenido 2**  
 **Asignatura:** Arquitectura de Computadores  
 **Institución:** Universidad Francisco de Paula Santander (UFPS)  
-**Estudiante:** [Tu Apellido]
+**Estudiante:** Obed Dario Ayala Santos
 
 ---
 
